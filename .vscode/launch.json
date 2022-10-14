@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<compus_snack>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.hqf.compus.Application",
+            "projectName": "compus_snack",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
